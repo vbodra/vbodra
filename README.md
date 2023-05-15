@@ -32,4 +32,4 @@ Desenvolvo aplicações para Web com as seguintes ferramentas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/>
 </p>
 
-![VBodra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbodra&count_private=true&show_icons=true&theme=tokyonight)
+![VBodra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbodra&count_private=true&show_icons=true)
