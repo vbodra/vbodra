@@ -31,5 +31,3 @@ Desenvolvo aplicações para Web com as seguintes ferramentas:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/>
 </p>
-
-![VBodra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbodra&count_private=true&show_icons=true)
